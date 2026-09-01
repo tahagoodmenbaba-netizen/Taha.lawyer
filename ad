@@ -1,0 +1,21 @@
+Taha.lawyer/
+│
+├── index.html
+├── app.js
+├── styles.css
+├── manifest.webmanifest
+├── sw.js
+├── README.md
+│
+├── icons/
+│   ├── icon.svg
+│   ├── icon-192.png
+│   └── icon-512.png
+│
+├── data/
+│   ├── laws.json
+│   ├── categories.json
+│   └── legal-topics.json
+│
+└── assets/
+    └── favicon.svg
