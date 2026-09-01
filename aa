@@ -1,0 +1,8 @@
+Taha.lawyer/
+├── index.html
+├── styles.css
+├── app.js
+├── sw.js
+├── manifest.webmanifest
+└── icons/
+    └── icon.svg
